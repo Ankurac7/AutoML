@@ -1,0 +1,2 @@
+# Automated ML Web Application
+I needed some AutoML for my classification and regression datasets. This web application allows us to pass through a custom dataset, perform automated data profiling and train a ML model. You'll need Python, Pandas Profiling, PyCaret and Streamlit to build this for your application.
